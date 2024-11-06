@@ -1,3 +1,8 @@
-# OREBI-REACT-FRONTEND
-**Orebi Frontend:** <br> 
-A modern, responsive front-end for the Orebi e-commerce platform, developed with React and styled using Tailwind CSS. This project is designed to provide a high-performance, intuitive shopping experience, with optimized load times and a mobile-first design, ensuring seamless functionality across all devices.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
